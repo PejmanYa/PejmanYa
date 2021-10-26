@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PejmanYa
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on cell detection with python
+- 👀 interested in coding
+- 🌱 currently learning Python
 
 <!---
 PejmanYa/PejmanYa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
